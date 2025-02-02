@@ -20,7 +20,8 @@ Help us keep HancWare running! You can donate via cryptocurrency using the butto
 
 ## 📬 Contact
 📧 Email: [HancWare@outlook.com](mailto:HancWare@outlook.com)  
-🐙 GitHub: [HancWare](https://github.com/HancWare)  
+🐙 GitHub: [HancWare](https://github.com/HancWare) 
+📎 Website: [HancSite](https://hancware.github.io/HancSite/)
 
 ---
 This project is open-source and relies on community support. Feel free to contribute!
